@@ -1,0 +1,45 @@
+body{
+     background-image: url(https://images.unsplash.com/photo-1607457561901-e6ec3a6d16cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8OHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat; 
+  /*   background-size: cover; */
+  /* background-color: #e5e5f7;
+  opacity: 0.8;
+  background: linear-gradient(135deg, #444cf755 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(225deg, #444cf7 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(315deg, #444cf755 25%, transparent 25%) 0px 0/ 20px 20px, linear-gradient(45deg, #444cf7 25%, #e5e5f7 25%) 0px 0/ 20px 20px;
+ */}
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.subtitle{
+    font-family: Cambria, Cochin, Georgia, 
+    Times, 'Times New Roman', serif;
+}
+
+.caja{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    font-size: 50px;
+    margin-bottom: 20px; /* margen externo */
+    margin: 20px;
+    padding: 20px;/*  dentro */
+    border-radius: 30px;
+}
+
+.blanca{
+    /* background-color: red; */
+    border-top: 1px dashed white;
+}
+
+.roja{
+    /* background-color: red; */
+    border-top: 1px dashed red;
+}
+.verde{
+   /*  background-color: green; */
+    border: 1px solid green;
+}
+.azul{
+    /* background-color: blue;  */
+    border: 5px dotted blue;
+   
+}

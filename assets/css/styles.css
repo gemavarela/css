@@ -1,0 +1,35 @@
+ .encabezado{
+            /*comment*/
+            font-size: 72px;
+           /*  color:cadetblue; */
+            color:white;
+            /* background-color: cornsilk; */
+            background-color: #f9dcc4;
+            text-align: center;
+            text-transform: uppercase;
+        }
+        body{
+            background-color:#f9dcc4;
+        }
+
+        #texto{
+            color: blue;
+            background-color: red;
+            font-size: 30px;
+            font-style: italic;
+        }
+
+        .texto{
+            color: white;
+            background-color: black;
+        }/* especificidad 10 */
+
+        p{
+            color: white;
+            background-color: dimgray;
+        }
+
+        p{
+            color: yellow;
+            background-color: #f9dcc4;
+        }/* especificidad 1 */

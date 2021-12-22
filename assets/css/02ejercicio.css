@@ -1,0 +1,47 @@
+.encabezado{
+   
+    font-size: 30px;
+   
+    text-align: right;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#contra{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#comic{
+    color: red;
+    font-family: font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+body{
+    background-color:#a3c6cc;
+    font-size: 17px;
+    text-align: justify;
+    
+   
+}
+.tipo1{
+    font-size: 30px;
+    color: black;
+    text-transform: uppercase;
+    font-family: monospace;
+   
+}
+.tipo2{
+    font-size: 20px;
+    color: chocolate;
+    font-family:sans-serif;
+    
+}
+.naranja{
+    color: tomato;
+
+}
+.verde{
+    color:green;
+    background-color: white;
+
+}

@@ -1,0 +1,49 @@
+body{
+   background-color:rgb(38, 115, 82);
+}
+.title{
+   color: white;
+   font-size: 30px;
+}
+   
+.caja{
+    width: 500px;
+    height: 50px;
+   
+   
+}
+
+.blanca{
+ 
+   background-color: white;
+   margin-left: 200px;
+   border: 1px solid black;   
+   border-radius: 15px ;
+   margin-bottom: 30px;
+   font-size: 15px;
+   border: 5px solid black;
+   padding: 10 px;
+}
+.roja{
+  /*  background-color: green; */
+   color: white;
+   border: 9px solid rgba(128,36,0);
+   background-color:  rgba(172, 90, 57);
+   margin: 5px;
+   border-top: ;
+    
+}
+.cafe{
+  /*  background-color: blue; */
+   color: white;
+   border: 9px solid rgba(172,122,57);
+   background-color: rgba(128,72,0);
+   margin-left: 500px;
+}
+.azul{
+    color: white;
+    background-color: rgba(0,70,128);;
+    border: 5px dotted rgb(57,120,172);
+    margin-left: 200px;
+}
+

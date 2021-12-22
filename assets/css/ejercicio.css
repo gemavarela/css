@@ -1,0 +1,33 @@
+.encabezado{
+    /*comment*/
+    font-size: 40px;
+   /*  color:cadetblue; */
+    color:black;
+    /* background-color: cornsilk; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color:#60a860;
+}
+
+.tipo1{
+    font-size: 20px;
+    color: white;
+    font-style: italic;
+}
+.tipo2{
+    font-size: 20px;
+    color: rgb(247, 247, 187);
+    font-style:normal;
+}
+.tipo3{
+    font-size: 20px;
+    color: yellow;
+    font-family: monospace; 
+    
+}
+.tipo4{
+    font-size: 18px;
+    color: red;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
